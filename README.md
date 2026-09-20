@@ -65,8 +65,8 @@ G --> E[Email plan with a read-back of what was agreed]
 
 ## Stack
 
-Google Apps Script (JavaScript) · Gemini API · Gmail · Wikipedia API · Google Maps links
+Google Apps Script (JavaScript) · Gemini API · OpenWeather API (conditions, forecast, air quality) · NOAA tide predictions · Gmail · Google Forms · Wikipedia API · Google Maps links
 
 ## About the source code
 
-The full script is about 110,000 characters and contains private family data, so it is not published in full.
+The full script is about 110,000 characters and contains private family data, so it is not published in full. Selected functions are in [`src/excerpts.gs`](src/excerpts.gs): the trigger schedule, self-shutdown after the trip, the one-reminder survey policy, and a test harness that never mails the family.
