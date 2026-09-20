@@ -1,4 +1,4 @@
-a/**
+/**
  * AI Travel Concierge: selected functions from the production script.
  *
  * The full script (about 110,000 characters) is not published because it
